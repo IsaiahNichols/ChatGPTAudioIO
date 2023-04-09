@@ -1,12 +1,6 @@
 # ChatGPTAudioIO
 
 '''
-TODO:
-- add audio input on bound button press
-- print user and chat audio input and output in the form of
-You: [input]
-Chat: [Response]
-
 In order to use:
 - install dependancies: pip install openai, gTTs, pyaudio, speechrecognition
 - Change directory to same as main.py file.
