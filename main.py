@@ -8,7 +8,7 @@ You: [input]
 Chat: [Response]
 
 In order to use:
-- install dependancies: pip install openai, gTTs, and ...
+- install dependancies: pip install openai, gTTs, pyaudio, speechrecognition
 - Change directory to same as main.py file.
 - Create directory \"ignore\" and paste API key in a text file named \"key.txt\" within that file.
 '''
